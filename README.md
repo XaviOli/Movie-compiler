@@ -54,6 +54,8 @@ The statement of the exercise is available on the virtual campus.
 
 ## Tests!
 
+![link image](./images/Test-1.png)
+
 
 ```shell
 $ npm install
