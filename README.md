@@ -28,7 +28,7 @@ $ git remote add origin <your repo name!>
 
 <br>
 
-## Submission
+## Submission 🖨
 
 1. Upon completion, run the following commands:
 
@@ -38,7 +38,7 @@ $ git commit -m "Sprint Solution"
 $ git push origin master
 ```
 
-2. Create Pull Request.
+2. Create Pull Request. 🕹
 
 3. Upload the link to the virtual campus so that your mentor can correct it and give you feedback.
 
@@ -46,13 +46,13 @@ $ git push origin master
 
 <br>
 
-## Introduction
+## Introduction 🎬
 
 The statement of the exercise is available on the virtual campus.
 
 <br>
 
-## Tests!
+## Tests! 🧩
 
 ![link image](./images/Capture-Test-Solution.png)
 
@@ -68,7 +68,7 @@ Apart from the statement, you will know exactly what you are asked to do by look
 
 <br>
 
-## Instructions
+## Instructions 🧾
 
 You have the following indications from the frontend responsible:
 
