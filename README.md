@@ -1,6 +1,6 @@
 # Sprint 4 IT Academy | Video management tool
 
-## Introduction
+## Introduction 🎥 📽 🎞
 
 A company in the audiovisual sector has asked us for a web application that will allow their employees to quickly find movies from a large database they have, since the process is currently done manually.
 
@@ -8,7 +8,7 @@ You will be in charge of setting up the core of the application: all the logic o
 
 <br>
 
-## Requirements
+## Requirements 💾
 
 
 1. Clone this repo
@@ -28,7 +28,7 @@ $ git remote add origin <your repo name!>
 
 <br>
 
-## Submission
+## Submission 🖨
 
 1. Upon completion, run the following commands:
 
@@ -38,7 +38,7 @@ $ git commit -m "Sprint Solution"
 $ git push origin master
 ```
 
-2. Create Pull Request.
+2. Create Pull Request. 🕹
 
 3. Upload the link to the virtual campus so that your mentor can correct it and give you feedback.
 
@@ -46,13 +46,15 @@ $ git push origin master
 
 <br>
 
-## Introduction
+## Introduction 🎬
 
 The statement of the exercise is available on the virtual campus.
 
 <br>
 
-## Tests!
+## Tests! 🧩
+
+![link image](./images/Capture-Test-Solution.png)
 
 
 ```shell
@@ -66,7 +68,7 @@ Apart from the statement, you will know exactly what you are asked to do by look
 
 <br>
 
-## Instructions
+## Instructions 🧾
 
 You have the following indications from the frontend responsible:
 
